@@ -9,7 +9,7 @@
       "Italy"
     ],
     "correct_answer": "Uruguay",
-    "score": 2
+    "score": 200
   },
   "2": {
     "id": 2,
@@ -21,7 +21,7 @@
       "Spain"
     ],
     "correct_answer": "Uruguay",
-    "score": 2
+    "score": 200
   },
   "3": {
     "id": 3,
@@ -33,7 +33,7 @@
       "Brazil"
     ],
     "correct_answer": "England",
-    "score": 2
+    "score": 200
   },
   "4": {
     "id": 4,
@@ -45,7 +45,7 @@
       "Just Fontaine"
     ],
     "correct_answer": "Miroslav Klose",
-    "score": 3
+    "score": 300
   },
   "5": {
     "id": 5,
@@ -57,7 +57,7 @@
       "Argentina"
     ],
     "correct_answer": "Brazil",
-    "score": 2
+    "score": 200
   },
   "6": {
     "id": 6,
@@ -69,7 +69,7 @@
       "Johan Cruyff"
     ],
     "correct_answer": "Diego Maradona",
-    "score": 2
+    "score": 200
   },
   "7": {
     "id": 7,
@@ -81,7 +81,7 @@
       "Sergio Busquets"
     ],
     "correct_answer": "Andrés Iniesta",
-    "score": 3
+    "score": 300
   },
   "8": {
     "id": 8,
@@ -93,7 +93,7 @@
       "Lusail Stadium"
     ],
     "correct_answer": "Maracanã Stadium",
-    "score": 2
+    "score": 200
   },
   "9": {
     "id": 9,
@@ -105,7 +105,7 @@
       "Miroslav Klose"
     ],
     "correct_answer": "Mario Götze",
-    "score": 3
+    "score": 300
   },
   "10": {
     "id": 10,
@@ -117,7 +117,7 @@
       "Harry Kane"
     ],
     "correct_answer": "Luka Modrić",
-    "score": 2
+    "score": 200
   },
   "11": {
     "id": 11,
@@ -129,7 +129,7 @@
       "Keylor Navas"
     ],
     "correct_answer": "Manuel Neuer",
-    "score": 2
+    "score": 200
   },
   "12": {
     "id": 12,
@@ -141,7 +141,7 @@
       "Cristiano Ronaldo"
     ],
     "correct_answer": "Harry Kane",
-    "score": 2
+    "score": 200
   },
   "13": {
     "id": 13,
@@ -153,7 +153,7 @@
       "Kaká"
     ],
     "correct_answer": "Ronaldo Nazário",
-    "score": 2
+    "score": 200
   },
   "14": {
     "id": 14,
@@ -165,7 +165,7 @@
       "David Trezeguet"
     ],
     "correct_answer": "Zinedine Zidane",
-    "score": 2
+    "score": 200
   },
   "15": {
     "id": 15,
@@ -177,7 +177,7 @@
       "Brazil"
     ],
     "correct_answer": "Netherlands",
-    "score": 2
+    "score": 200
   },
   "16": {
     "id": 16,
@@ -189,7 +189,7 @@
       "Tunisia"
     ],
     "correct_answer": "South Africa",
-    "score": 1
+    "score": 100
   },
   "17": {
     "id": 17,
@@ -201,7 +201,7 @@
       "Senegal"
     ],
     "correct_answer": "Ghana",
-    "score": 2
+    "score": 200
   },
   "18": {
     "id": 18,
@@ -213,7 +213,7 @@
       "Vietnam"
     ],
     "correct_answer": "Japan",
-    "score": 1
+    "score": 100
   },
   "19": {
     "id": 19,
@@ -225,7 +225,7 @@
       "Bahrain"
     ],
     "correct_answer": "Qatar",
-    "score": 1
+    "score": 100
   },
   "20": {
     "id": 20,
@@ -237,7 +237,7 @@
       "Antoine Griezmann"
     ],
     "correct_answer": "Lionel Messi",
-    "score": 2
+    "score": 200
   },
   "21": {
     "id": 21,
@@ -249,7 +249,7 @@
       "Julián Álvarez"
     ],
     "correct_answer": "Kylian Mbappé",
-    "score": 3
+    "score": 300
   },
   "22": {
     "id": 22,
@@ -261,7 +261,7 @@
       "Algeria"
     ],
     "correct_answer": "Morocco",
-    "score": 2
+    "score": 200
   },
   "23": {
     "id": 23,
@@ -273,7 +273,7 @@
       "Ronaldinho"
     ],
     "correct_answer": "Pelé",
-    "score": 2
+    "score": 200
   },
   "24": {
     "id": 24,
@@ -285,7 +285,7 @@
       "Uruguay"
     ],
     "correct_answer": "Hungary",
-    "score": 3
+    "score": 300
   },
   "25": {
     "id": 25,
@@ -297,7 +297,7 @@
       "Argentina"
     ],
     "correct_answer": "Sweden",
-    "score": 2
+    "score": 200
   },
   "26": {
     "id": 26,
@@ -309,7 +309,7 @@
       "Eusebio"
     ],
     "correct_answer": "Just Fontaine",
-    "score": 3
+    "score": 300
   },
   "27": {
     "id": 27,
@@ -321,7 +321,7 @@
       "Rui Costa"
     ],
     "correct_answer": "Eusébio",
-    "score": 3
+    "score": 300
   },
   "28": {
     "id": 28,
@@ -333,7 +333,7 @@
       "Spain"
     ],
     "correct_answer": "Mexico",
-    "score": 1
+    "score": 100
   },
   "29": {
     "id": 29,
@@ -345,7 +345,7 @@
       "Dennis Bergkamp"
     ],
     "correct_answer": "Johan Cruyff",
-    "score": 2
+    "score": 200
   },
   "30": {
     "id": 30,
@@ -357,7 +357,7 @@
       "Argentina"
     ],
     "correct_answer": "West Germany",
-    "score": 2
+    "score": 200
   },
   "31": {
     "id": 31,
@@ -369,7 +369,7 @@
       "West Germany"
     ],
     "correct_answer": "Netherlands",
-    "score": 3
+    "score": 300
   },
   "32": {
     "id": 32,
@@ -381,7 +381,7 @@
       "Francesco Toldo"
     ],
     "correct_answer": "Dino Zoff",
-    "score": 3
+    "score": 300
   },
   "33": {
     "id": 33,
@@ -393,7 +393,7 @@
       "Michel Platini"
     ],
     "correct_answer": "Paolo Rossi",
-    "score": 2
+    "score": 200
   },
   "34": {
     "id": 34,
@@ -405,7 +405,7 @@
       "England"
     ],
     "correct_answer": "West Germany",
-    "score": 2
+    "score": 200
   },
   "35": {
     "id": 35,
@@ -417,7 +417,7 @@
       "Germany"
     ],
     "correct_answer": "Italy",
-    "score": 1
+    "score": 100
   },
   "36": {
     "id": 36,
@@ -429,7 +429,7 @@
       "Rudi Völler"
     ],
     "correct_answer": "Andreas Brehme",
-    "score": 3
+    "score": 300
   },
   "37": {
     "id": 37,
@@ -441,7 +441,7 @@
       "Brazil"
     ],
     "correct_answer": "United States",
-    "score": 1
+    "score": 100
   },
   "38": {
     "id": 38,
@@ -453,7 +453,7 @@
       "Bebeto"
     ],
     "correct_answer": "Romário",
-    "score": 3
+    "score": 300
   },
   "39": {
     "id": 39,
@@ -465,7 +465,7 @@
       "Netherlands"
     ],
     "correct_answer": "Brazil",
-    "score": 2
+    "score": 200
   },
   "40": {
     "id": 40,
@@ -477,7 +477,7 @@
       "Patrick Vieira"
     ],
     "correct_answer": "Zinedine Zidane",
-    "score": 3
+    "score": 300
   },
   "41": {
     "id": 41,
@@ -489,7 +489,7 @@
       "Brazil"
     ],
     "correct_answer": "France",
-    "score": 1
+    "score": 100
   },
   "42": {
     "id": 42,
@@ -501,7 +501,7 @@
       "Australia"
     ],
     "correct_answer": "South Korea",
-    "score": 2
+    "score": 200
   },
   "43": {
     "id": 43,
@@ -513,7 +513,7 @@
       "Mario Gómez"
     ],
     "correct_answer": "Thomas Müller",
-    "score": 2
+    "score": 200
   },
   "44": {
     "id": 44,
@@ -525,7 +525,7 @@
       "Brazil"
     ],
     "correct_answer": "Spain",
-    "score": 1
+    "score": 100
   },
   "45": {
     "id": 45,
@@ -537,7 +537,7 @@
       "Colombia"
     ],
     "correct_answer": "Brazil",
-    "score": 1
+    "score": 100
   },
   "46": {
     "id": 46,
@@ -549,7 +549,7 @@
       "Gerd Müller"
     ],
     "correct_answer": "Geoff Hurst",
-    "score": 3
+    "score": 300
   },
   "47": {
     "id": 47,
@@ -561,7 +561,7 @@
       "Colombia"
     ],
     "correct_answer": "Chile",
-    "score": 1
+    "score": 100
   },
   "48": {
     "id": 48,
@@ -573,7 +573,7 @@
       "Denmark"
     ],
     "correct_answer": "Switzerland",
-    "score": 1
+    "score": 100
   },
   "49": {
     "id": 49,
@@ -585,7 +585,7 @@
       "Germany"
     ],
     "correct_answer": "Mexico",
-    "score": 2
+    "score": 200
   },
   "50": {
     "id": 50,
@@ -597,7 +597,7 @@
       "Netherlands"
     ],
     "correct_answer": "Germany",
-    "score": 1
+    "score": 100
   },
   "51": {
     "id": 51,
@@ -609,7 +609,7 @@
       "2022"
     ],
     "correct_answer": "2018",
-    "score": 1
+    "score": 100
   },
   "52": {
     "id": 52,
@@ -621,7 +621,7 @@
       "England"
     ],
     "correct_answer": "France",
-    "score": 1
+    "score": 100
   },
   "53": {
     "id": 53,
@@ -633,7 +633,7 @@
       "Brazil"
     ],
     "correct_answer": "Belgium",
-    "score": 2
+    "score": 200
   },
   "54": {
     "id": 54,
@@ -645,7 +645,7 @@
       "Paraguay"
     ],
     "correct_answer": "Uruguay",
-    "score": 2
+    "score": 200
   },
   "55": {
     "id": 55,
@@ -657,7 +657,7 @@
       "West Germany"
     ],
     "correct_answer": "Brazil",
-    "score": 1
+    "score": 100
   },
   "56": {
     "id": 56,
@@ -669,7 +669,7 @@
       "West Germany"
     ],
     "correct_answer": "Brazil",
-    "score": 2
+    "score": 200
   },
   "57": {
     "id": 57,
@@ -681,7 +681,7 @@
       "Austria"
     ],
     "correct_answer": "Italy",
-    "score": 1
+    "score": 100
   },
   "58": {
     "id": 58,
@@ -693,7 +693,7 @@
       "Group stage"
     ],
     "correct_answer": "Champions",
-    "score": 2
+    "score": 200
   },
   "59": {
     "id": 59,
@@ -705,7 +705,7 @@
       "Uruguay"
     ],
     "correct_answer": "Argentina",
-    "score": 1
+    "score": 100
   },
   "60": {
     "id": 60,
@@ -717,7 +717,7 @@
       "Spain"
     ],
     "correct_answer": "Italy",
-    "score": 1
+    "score": 100
   },
   "61": {
     "id": 61,
@@ -729,7 +729,7 @@
       "England"
     ],
     "correct_answer": "France",
-    "score": 1
+    "score": 100
   },
   "62": {
     "id": 62,
@@ -741,7 +741,7 @@
       "Colombia"
     ],
     "correct_answer": "Brazil",
-    "score": 1
+    "score": 100
   },
   "63": {
     "id": 63,
@@ -753,7 +753,7 @@
       "Spain"
     ],
     "correct_answer": "Argentina",
-    "score": 1
+    "score": 100
   },
   "64": {
     "id": 64,
@@ -765,7 +765,7 @@
       "South Korea"
     ],
     "correct_answer": "Brazil",
-    "score": 1
+    "score": 100
   },
   "65": {
     "id": 65,
@@ -777,7 +777,7 @@
       "Neymar"
     ],
     "correct_answer": "James Rodríguez",
-    "score": 2
+    "score": 200
   },
   "66": {
     "id": 66,
@@ -789,7 +789,7 @@
       "Philipp Lahm"
     ],
     "correct_answer": "Lionel Messi",
-    "score": 2
+    "score": 200
   },
   "67": {
     "id": 67,
@@ -801,7 +801,7 @@
       "Ghana"
     ],
     "correct_answer": "South Africa",
-    "score": 1
+    "score": 100
   },
   "68": {
     "id": 68,
@@ -813,7 +813,7 @@
       "Spain"
     ],
     "correct_answer": "West Germany",
-    "score": 1
+    "score": 100
   },
   "69": {
     "id": 69,
@@ -825,7 +825,7 @@
       "Bulgaria"
     ],
     "correct_answer": "Brazil",
-    "score": 2
+    "score": 200
   },
   "70": {
     "id": 70,
@@ -837,7 +837,7 @@
       "Alessandro Del Piero"
     ],
     "correct_answer": "Roberto Baggio",
-    "score": 3
+    "score": 300
   },
   "71": {
     "id": 71,
@@ -849,7 +849,7 @@
       "Italy"
     ],
     "correct_answer": "Croatia",
-    "score": 3
+    "score": 300
   },
   "72": {
     "id": 72,
@@ -861,7 +861,7 @@
       "Portugal"
     ],
     "correct_answer": "Italy",
-    "score": 1
+    "score": 100
   },
   "73": {
     "id": 73,
@@ -873,7 +873,7 @@
       "Lukas Podolski"
     ],
     "correct_answer": "Zinedine Zidane",
-    "score": 3
+    "score": 300
   },
   "74": {
     "id": 74,
@@ -885,7 +885,7 @@
       "Ricardo"
     ],
     "correct_answer": "Gianluigi Buffon",
-    "score": 2
+    "score": 200
   },
   "75": {
     "id": 75,
@@ -897,7 +897,7 @@
       "Brazil"
     ],
     "correct_answer": "Germany",
-    "score": 1
+    "score": 100
   },
   "76": {
     "id": 76,
@@ -909,7 +909,7 @@
       "Cafu"
     ],
     "correct_answer": "Lionel Messi",
-    "score": 3
+    "score": 300
   },
   "77": {
     "id": 77,
@@ -921,7 +921,7 @@
       "Argentina"
     ],
     "correct_answer": "Germany",
-    "score": 3
+    "score": 300
   },
   "78": {
     "id": 78,
@@ -933,7 +933,7 @@
       "Portugal"
     ],
     "correct_answer": "Spain",
-    "score": 2
+    "score": 200
   },
   "79": {
     "id": 79,
@@ -945,7 +945,7 @@
       "Sweden"
     ],
     "correct_answer": "Italy",
-    "score": 2
+    "score": 200
   },
   "80": {
     "id": 80,
@@ -957,7 +957,7 @@
       "England"
     ],
     "correct_answer": "Brazil",
-    "score": 1
+    "score": 100
   },
   "81": {
     "id": 81,
@@ -969,7 +969,7 @@
       "Italy"
     ],
     "correct_answer": "Sweden",
-    "score": 1
+    "score": 100
   },
   "82": {
     "id": 82,
@@ -981,7 +981,7 @@
       "Italy"
     ],
     "correct_answer": "England",
-    "score": 1
+    "score": 100
   },
   "83": {
     "id": 83,
@@ -993,7 +993,7 @@
       "Germany"
     ],
     "correct_answer": "Spain",
-    "score": 1
+    "score": 100
   },
   "84": {
     "id": 84,
@@ -1005,7 +1005,7 @@
       "France"
     ],
     "correct_answer": "Italy",
-    "score": 1
+    "score": 100
   },
   "85": {
     "id": 85,
@@ -1017,7 +1017,7 @@
       "Spain"
     ],
     "correct_answer": "Italy",
-    "score": 2
+    "score": 200
   },
   "86": {
     "id": 86,
@@ -1029,7 +1029,7 @@
       "France"
     ],
     "correct_answer": "West Germany",
-    "score": 2
+    "score": 200
   },
   "87": {
     "id": 87,
@@ -1041,7 +1041,7 @@
       "Uruguay"
     ],
     "correct_answer": "Brazil",
-    "score": 1
+    "score": 100
   },
   "88": {
     "id": 88,
@@ -1053,7 +1053,7 @@
       "France"
     ],
     "correct_answer": "Italy",
-    "score": 2
+    "score": 200
   },
   "89": {
     "id": 89,
@@ -1065,7 +1065,7 @@
       "Italy"
     ],
     "correct_answer": "Argentina",
-    "score": 2
+    "score": 200
   },
   "90": {
     "id": 90,
@@ -1077,7 +1077,7 @@
       "France"
     ],
     "correct_answer": "West Germany",
-    "score": 2
+    "score": 200
   },
   "91": {
     "id": 91,
@@ -1089,7 +1089,7 @@
       "Bulgaria"
     ],
     "correct_answer": "Brazil",
-    "score": 1
+    "score": 100
   },
   "92": {
     "id": 92,
@@ -1101,7 +1101,7 @@
       "Italy"
     ],
     "correct_answer": "France",
-    "score": 1
+    "score": 100
   },
   "93": {
     "id": 93,
@@ -1113,7 +1113,7 @@
       "South Korea"
     ],
     "correct_answer": "Brazil",
-    "score": 1
+    "score": 100
   },
   "94": {
     "id": 94,
@@ -1125,7 +1125,7 @@
       "Portugal"
     ],
     "correct_answer": "Italy",
-    "score": 1
+    "score": 100
   },
   "95": {
     "id": 95,
@@ -1137,7 +1137,7 @@
       "England"
     ],
     "correct_answer": "France",
-    "score": 1
+    "score": 100
   },
   "96": {
     "id": 96,
@@ -1149,7 +1149,7 @@
       "Brazil"
     ],
     "correct_answer": "Argentina",
-    "score": 1
+    "score": 100
   },
   "97": {
     "id": 97,
@@ -1161,7 +1161,7 @@
       "Olivier Giroud"
     ],
     "correct_answer": "Kylian Mbappé",
-    "score": 2
+    "score": 200
   },
   "98": {
     "id": 98,
@@ -1173,7 +1173,7 @@
       "Sweden"
     ],
     "correct_answer": "France",
-    "score": 1
+    "score": 100
   },
   "99": {
     "id": 99,
@@ -1185,7 +1185,7 @@
       "Argentina"
     ],
     "correct_answer": "Mexico",
-    "score": 1
+    "score": 100
   },
   "100": {
     "id": 100,
@@ -1197,6 +1197,6 @@
       "Uruguay"
     ],
     "correct_answer": "Argentina",
-    "score": 1
+    "score": 100
   }
 }

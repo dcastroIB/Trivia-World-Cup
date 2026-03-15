@@ -3,10 +3,10 @@
     "id": 1,
     "question": "In 1930, the inaugural FIFA World Cup was staged in which country?",
     "options": [
+      "Italy",
       "Uruguay",
-      "Argentina",
       "Brazil",
-      "Italy"
+      "Argentina"
     ],
     "correct_answer": "Uruguay",
     "score": 200
@@ -15,10 +15,10 @@
     "id": 2,
     "question": "Which nation lifted the Jules Rimet Trophy after winning the 1950 World Cup?",
     "options": [
-      "Uruguay",
       "Brazil",
       "Sweden",
-      "Spain"
+      "Spain",
+      "Uruguay"
     ],
     "correct_answer": "Uruguay",
     "score": 200
@@ -27,10 +27,10 @@
     "id": 3,
     "question": "At the 1966 tournament, which country became world champions on home soil?",
     "options": [
+      "Brazil",
       "England",
-      "West Germany",
       "Portugal",
-      "Brazil"
+      "West Germany"
     ],
     "correct_answer": "England",
     "score": 200
@@ -39,10 +39,10 @@
     "id": 4,
     "question": "Who holds the record for most goals scored across all FIFA World Cup finals tournaments?",
     "options": [
-      "Miroslav Klose",
-      "Ronaldo Nazário",
       "Pelé",
-      "Just Fontaine"
+      "Miroslav Klose",
+      "Just Fontaine",
+      "Ronaldo Nazário"
     ],
     "correct_answer": "Miroslav Klose",
     "score": 300
@@ -53,8 +53,8 @@
     "options": [
       "Brazil",
       "Germany",
-      "Italy",
-      "Argentina"
+      "Argentina",
+      "Italy"
     ],
     "correct_answer": "Brazil",
     "score": 200
@@ -63,10 +63,10 @@
     "id": 6,
     "question": "Which player is famous for the 'Hand of God' moment at the 1986 World Cup?",
     "options": [
-      "Diego Maradona",
-      "Pelé",
+      "Johan Cruyff",
       "Zinedine Zidane",
-      "Johan Cruyff"
+      "Pelé",
+      "Diego Maradona"
     ],
     "correct_answer": "Diego Maradona",
     "score": 200
@@ -75,22 +75,22 @@
     "id": 7,
     "question": "The 2010 World Cup final was decided by a goal from which Spanish midfielder?",
     "options": [
-      "Andrés Iniesta",
+      "Sergio Busquets",
       "Xavi",
-      "David Villa",
-      "Sergio Busquets"
+      "Andrés Iniesta",
+      "David Villa"
     ],
     "correct_answer": "Andrés Iniesta",
-    "score": 300
+    "score": 200
   },
   "8": {
     "id": 8,
     "question": "Which stadium hosted the 2014 FIFA World Cup final in Rio de Janeiro?",
     "options": [
       "Maracanã Stadium",
-      "Wembley Stadium",
-      "Olympiastadion Berlin",
-      "Lusail Stadium"
+      "Olympiastadion",
+      "Lusail Stadium",
+      "Wembley Stadium"
     ],
     "correct_answer": "Maracanã Stadium",
     "score": 200
@@ -111,10 +111,10 @@
     "id": 10,
     "question": "Who won the Golden Ball award as best player at the 2018 World Cup?",
     "options": [
-      "Luka Modrić",
-      "Kylian Mbappé",
+      "Harry Kane",
       "Antoine Griezmann",
-      "Harry Kane"
+      "Kylian Mbappé",
+      "Luka Modrić"
     ],
     "correct_answer": "Luka Modrić",
     "score": 200
@@ -136,8 +136,8 @@
     "question": "Which player finished as top scorer (Golden Boot) at the 2018 World Cup?",
     "options": [
       "Harry Kane",
-      "Romelu Lukaku",
       "Kylian Mbappé",
+      "Romelu Lukaku",
       "Cristiano Ronaldo"
     ],
     "correct_answer": "Harry Kane",
@@ -147,10 +147,10 @@
     "id": 13,
     "question": "In 2002, Brazil won the final thanks to two goals by which striker?",
     "options": [
+      "Kaká",
       "Ronaldo Nazário",
       "Rivaldo",
-      "Ronaldinho",
-      "Kaká"
+      "Ronaldinho"
     ],
     "correct_answer": "Ronaldo Nazário",
     "score": 200
@@ -159,10 +159,10 @@
     "id": 14,
     "question": "Which French legend headbutted Marco Materazzi in the 2006 final?",
     "options": [
-      "Zinedine Zidane",
       "Thierry Henry",
+      "David Trezeguet",
       "Patrick Vieira",
-      "David Trezeguet"
+      "Zinedine Zidane"
     ],
     "correct_answer": "Zinedine Zidane",
     "score": 200
@@ -171,10 +171,10 @@
     "id": 15,
     "question": "Spain captured its first World Cup by beating which opponent in the 2010 final?",
     "options": [
-      "Netherlands",
-      "Germany",
+      "Brazil",
       "Uruguay",
-      "Brazil"
+      "Netherlands",
+      "Germany"
     ],
     "correct_answer": "Netherlands",
     "score": 200
@@ -184,9 +184,9 @@
     "question": "Which country hosted the first World Cup held in Africa?",
     "options": [
       "South Africa",
+      "Tunisia",
       "Morocco",
-      "Egypt",
-      "Tunisia"
+      "Egypt"
     ],
     "correct_answer": "South Africa",
     "score": 100
@@ -196,8 +196,8 @@
     "question": "Which African team reached the quarterfinals at the 2010 World Cup?",
     "options": [
       "Ghana",
-      "Nigeria",
       "Cameroon",
+      "Nigeria",
       "Senegal"
     ],
     "correct_answer": "Ghana",
@@ -207,10 +207,10 @@
     "id": 18,
     "question": "Which nation co-hosted the 2002 World Cup alongside South Korea?",
     "options": [
-      "Japan",
-      "China",
       "Thailand",
-      "Vietnam"
+      "Vietnam",
+      "Japan",
+      "China"
     ],
     "correct_answer": "Japan",
     "score": 100
@@ -219,10 +219,10 @@
     "id": 19,
     "question": "Which country hosted the 2022 FIFA World Cup in the Middle East?",
     "options": [
-      "Qatar",
       "UAE",
+      "Bahrain",
       "Saudi Arabia",
-      "Bahrain"
+      "Qatar"
     ],
     "correct_answer": "Qatar",
     "score": 100
@@ -231,10 +231,10 @@
     "id": 20,
     "question": "At Qatar 2022, which player won the Golden Ball as tournament MVP?",
     "options": [
-      "Lionel Messi",
-      "Kylian Mbappé",
       "Luka Modrić",
-      "Antoine Griezmann"
+      "Lionel Messi",
+      "Antoine Griezmann",
+      "Kylian Mbappé"
     ],
     "correct_answer": "Lionel Messi",
     "score": 200
@@ -244,9 +244,9 @@
     "question": "Who scored a hat-trick in the 2022 World Cup final?",
     "options": [
       "Kylian Mbappé",
-      "Lionel Messi",
       "Olivier Giroud",
-      "Julián Álvarez"
+      "Julián Álvarez",
+      "Lionel Messi"
     ],
     "correct_answer": "Kylian Mbappé",
     "score": 300
@@ -255,10 +255,10 @@
     "id": 22,
     "question": "Which country finished fourth at the 2022 World Cup, the best-ever African finish?",
     "options": [
-      "Morocco",
-      "Ghana",
+      "Algeria",
       "Cameroon",
-      "Algeria"
+      "Morocco",
+      "Ghana"
     ],
     "correct_answer": "Morocco",
     "score": 200
@@ -267,10 +267,10 @@
     "id": 23,
     "question": "Which Brazilian icon won the World Cup three times (1958, 1962, 1970)?",
     "options": [
-      "Pelé",
       "Romário",
-      "Rivaldo",
-      "Ronaldinho"
+      "Ronaldinho",
+      "Pelé",
+      "Rivaldo"
     ],
     "correct_answer": "Pelé",
     "score": 200
@@ -279,8 +279,8 @@
     "id": 24,
     "question": "Which 1954 finalists did West Germany upset in the 'Miracle of Bern'?",
     "options": [
-      "Hungary",
       "Brazil",
+      "Hungary",
       "France",
       "Uruguay"
     ],
@@ -291,9 +291,9 @@
     "id": 25,
     "question": "At Sweden 1958, Brazil won the final against which host nation?",
     "options": [
-      "Sweden",
       "West Germany",
       "France",
+      "Sweden",
       "Argentina"
     ],
     "correct_answer": "Sweden",
@@ -303,10 +303,10 @@
     "id": 26,
     "question": "Who scored a record 13 goals at a single World Cup (1958)?",
     "options": [
+      "Eusebio",
       "Just Fontaine",
-      "Pelé",
       "Gerd Müller",
-      "Eusebio"
+      "Pelé"
     ],
     "correct_answer": "Just Fontaine",
     "score": 300
@@ -327,10 +327,10 @@
     "id": 28,
     "question": "The 1970 World Cup is often called one of the best ever—where was it held?",
     "options": [
-      "Mexico",
       "Brazil",
+      "Spain",
       "Italy",
-      "Spain"
+      "Mexico"
     ],
     "correct_answer": "Mexico",
     "score": 100
@@ -339,10 +339,10 @@
     "id": 29,
     "question": "Which Dutch great is closely associated with 'Total Football' at the 1974 World Cup?",
     "options": [
-      "Johan Cruyff",
-      "Marco van Basten",
+      "Dennis Bergkamp",
       "Ruud Gullit",
-      "Dennis Bergkamp"
+      "Marco van Basten",
+      "Johan Cruyff"
     ],
     "correct_answer": "Johan Cruyff",
     "score": 200
@@ -351,10 +351,10 @@
     "id": 30,
     "question": "Which country won the 1974 World Cup final against the Netherlands?",
     "options": [
-      "West Germany",
       "Brazil",
-      "Italy",
-      "Argentina"
+      "West Germany",
+      "Argentina",
+      "Italy"
     ],
     "correct_answer": "West Germany",
     "score": 200
@@ -363,10 +363,10 @@
     "id": 31,
     "question": "Argentina’s first World Cup triumph came in 1978—who did they beat in the final?",
     "options": [
-      "Netherlands",
-      "Brazil",
       "Italy",
-      "West Germany"
+      "West Germany",
+      "Brazil",
+      "Netherlands"
     ],
     "correct_answer": "Netherlands",
     "score": 300
@@ -375,10 +375,10 @@
     "id": 32,
     "question": "Which Italian goalkeeper captained his side to the 1982 World Cup title?",
     "options": [
-      "Dino Zoff",
       "Gianluigi Buffon",
       "Walter Zenga",
-      "Francesco Toldo"
+      "Francesco Toldo",
+      "Dino Zoff"
     ],
     "correct_answer": "Dino Zoff",
     "score": 300
@@ -387,22 +387,22 @@
     "id": 33,
     "question": "Who finished as top scorer at Spain 1982 with six goals?",
     "options": [
+      "Michel Platini",
       "Paolo Rossi",
-      "Diego Maradona",
-      "Karl-Heinz Rummenigge",
-      "Michel Platini"
+      "K-H Rummenigge",
+      "Diego Maradona"
     ],
     "correct_answer": "Paolo Rossi",
-    "score": 200
+    "score": 300
   },
   "34": {
     "id": 34,
     "question": "Which team did Argentina defeat in the 1986 final to become champions?",
     "options": [
-      "West Germany",
       "Brazil",
-      "France",
-      "England"
+      "West Germany",
+      "England",
+      "France"
     ],
     "correct_answer": "West Germany",
     "score": 200
@@ -411,10 +411,10 @@
     "id": 35,
     "question": "In 1990, West Germany defeated Argentina in the final hosted by which country?",
     "options": [
-      "Italy",
+      "Germany",
       "Spain",
-      "France",
-      "Germany"
+      "Italy",
+      "France"
     ],
     "correct_answer": "Italy",
     "score": 100
@@ -423,10 +423,10 @@
     "id": 36,
     "question": "Who scored the decisive penalty in the 1990 final for West Germany?",
     "options": [
-      "Andreas Brehme",
       "Lothar Matthäus",
-      "Jürgen Klinsmann",
-      "Rudi Völler"
+      "Rudi Völler",
+      "Andreas Brehme",
+      "Jürgen Klinsmann"
     ],
     "correct_answer": "Andreas Brehme",
     "score": 300
@@ -435,10 +435,10 @@
     "id": 37,
     "question": "Which country hosted the 1994 World Cup, the first held in the United States?",
     "options": [
-      "United States",
       "Mexico",
+      "Brazil",
       "Canada",
-      "Brazil"
+      "United States"
     ],
     "correct_answer": "United States",
     "score": 100
@@ -447,9 +447,9 @@
     "id": 38,
     "question": "Which player won the Golden Ball at USA 1994?",
     "options": [
+      "Hristo Stoichkov",
       "Romário",
       "Roberto Baggio",
-      "Hristo Stoichkov",
       "Bebeto"
     ],
     "correct_answer": "Romário",
@@ -460,9 +460,9 @@
     "question": "France’s first World Cup title in 1998 was sealed in the final against which team?",
     "options": [
       "Brazil",
-      "Italy",
       "Germany",
-      "Netherlands"
+      "Netherlands",
+      "Italy"
     ],
     "correct_answer": "Brazil",
     "score": 200
@@ -471,8 +471,8 @@
     "id": 40,
     "question": "Who scored twice in the 1998 final for France?",
     "options": [
-      "Zinedine Zidane",
       "Thierry Henry",
+      "Zinedine Zidane",
       "David Trezeguet",
       "Patrick Vieira"
     ],
@@ -483,9 +483,9 @@
     "id": 41,
     "question": "In 2006, Italy won the final via penalties against which opponent?",
     "options": [
+      "Portugal",
       "France",
       "Germany",
-      "Portugal",
       "Brazil"
     ],
     "correct_answer": "France",
@@ -495,10 +495,10 @@
     "id": 42,
     "question": "Which host nation reached the 2002 semifinals for the first time in their history?",
     "options": [
-      "South Korea",
-      "Japan",
       "China",
-      "Australia"
+      "Japan",
+      "Australia",
+      "South Korea"
     ],
     "correct_answer": "South Korea",
     "score": 200
@@ -507,10 +507,10 @@
     "id": 43,
     "question": "Which German player won the Golden Boot at South Africa 2010?",
     "options": [
-      "Thomas Müller",
-      "Miroslav Klose",
       "Mesut Özil",
-      "Mario Gómez"
+      "Mario Gómez",
+      "Miroslav Klose",
+      "Thomas Müller"
     ],
     "correct_answer": "Thomas Müller",
     "score": 200
@@ -519,8 +519,8 @@
     "id": 44,
     "question": "Which nation won the 2010 World Cup held in South Africa?",
     "options": [
-      "Spain",
       "Netherlands",
+      "Spain",
       "Germany",
       "Brazil"
     ],
@@ -532,9 +532,9 @@
     "question": "Which country lost 7–1 to Germany in the 2014 semifinal?",
     "options": [
       "Brazil",
+      "Colombia",
       "Argentina",
-      "Chile",
-      "Colombia"
+      "Chile"
     ],
     "correct_answer": "Brazil",
     "score": 100
@@ -543,10 +543,10 @@
     "id": 46,
     "question": "Which player scored the winning goal in the 1966 final, completing a hat-trick?",
     "options": [
-      "Geoff Hurst",
-      "Bobby Charlton",
       "Pelé",
-      "Gerd Müller"
+      "Gerd Müller",
+      "Bobby Charlton",
+      "Geoff Hurst"
     ],
     "correct_answer": "Geoff Hurst",
     "score": 300
@@ -555,10 +555,10 @@
     "id": 47,
     "question": "The 1962 competition was held in a South American host—where was it staged?",
     "options": [
-      "Chile",
+      "Colombia",
       "Peru",
-      "Uruguay",
-      "Colombia"
+      "Chile",
+      "Uruguay"
     ],
     "correct_answer": "Chile",
     "score": 100
@@ -567,10 +567,10 @@
     "id": 48,
     "question": "The 1954 tournament was staged in which European country?",
     "options": [
-      "Switzerland",
+      "Denmark",
       "Austria",
-      "Belgium",
-      "Denmark"
+      "Switzerland",
+      "Belgium"
     ],
     "correct_answer": "Switzerland",
     "score": 100
@@ -579,10 +579,10 @@
     "id": 49,
     "question": "Which country staged the World Cup twice, in 1970 and 1986?",
     "options": [
-      "Mexico",
-      "Brazil",
+      "Germany",
       "Italy",
-      "Germany"
+      "Brazil",
+      "Mexico"
     ],
     "correct_answer": "Mexico",
     "score": 200
@@ -592,8 +592,8 @@
     "question": "Which nation hosted the 2006 World Cup in Europe?",
     "options": [
       "Germany",
-      "Austria",
       "Switzerland",
+      "Austria",
       "Netherlands"
     ],
     "correct_answer": "Germany",
@@ -603,10 +603,10 @@
     "id": 51,
     "question": "Russia hosted the World Cup in which year?",
     "options": [
+      "2022",
       "2018",
-      "2014",
       "2010",
-      "2022"
+      "2014"
     ],
     "correct_answer": "2018",
     "score": 100
@@ -615,10 +615,10 @@
     "id": 52,
     "question": "Which country won the 2018 World Cup in Russia?",
     "options": [
-      "France",
+      "England",
       "Croatia",
-      "Belgium",
-      "England"
+      "France",
+      "Belgium"
     ],
     "correct_answer": "France",
     "score": 100
@@ -628,9 +628,9 @@
     "question": "Which team finished third at Russia 2018 after defeating England in the playoff?",
     "options": [
       "Belgium",
-      "Germany",
       "Spain",
-      "Brazil"
+      "Brazil",
+      "Germany"
     ],
     "correct_answer": "Belgium",
     "score": 200
@@ -640,9 +640,9 @@
     "question": "Which South American nation won the 1930 final as hosts?",
     "options": [
       "Uruguay",
-      "Argentina",
       "Chile",
-      "Paraguay"
+      "Paraguay",
+      "Argentina"
     ],
     "correct_answer": "Uruguay",
     "score": 200
@@ -651,10 +651,10 @@
     "id": 55,
     "question": "Which nation won the 1958 World Cup, introducing a teenage Pelé to the world?",
     "options": [
-      "Brazil",
       "Sweden",
       "France",
-      "West Germany"
+      "West Germany",
+      "Brazil"
     ],
     "correct_answer": "Brazil",
     "score": 100
@@ -663,10 +663,10 @@
     "id": 56,
     "question": "Which team won back-to-back World Cups in 1958 and 1962?",
     "options": [
-      "Brazil",
-      "Italy",
+      "West Germany",
       "Uruguay",
-      "West Germany"
+      "Italy",
+      "Brazil"
     ],
     "correct_answer": "Brazil",
     "score": 200
@@ -675,10 +675,10 @@
     "id": 57,
     "question": "Which European nation served as host for the 1934 World Cup?",
     "options": [
-      "Italy",
-      "France",
       "Spain",
-      "Austria"
+      "Austria",
+      "France",
+      "Italy"
     ],
     "correct_answer": "Italy",
     "score": 100
@@ -687,10 +687,10 @@
     "id": 58,
     "question": "Italy defended their title at France 1938—what was their finishing position?",
     "options": [
-      "Champions",
-      "Runners-up",
+      "Group stage",
       "Third place",
-      "Group stage"
+      "Champions",
+      "Runners-up"
     ],
     "correct_answer": "Champions",
     "score": 200
@@ -699,10 +699,10 @@
     "id": 59,
     "question": "Which country hosted the 1978 World Cup during Argentina’s first title run?",
     "options": [
-      "Argentina",
-      "Brazil",
       "Chile",
-      "Uruguay"
+      "Uruguay",
+      "Argentina",
+      "Brazil"
     ],
     "correct_answer": "Argentina",
     "score": 100
@@ -711,10 +711,10 @@
     "id": 60,
     "question": "Which country hosted the 1990 World Cup featuring the famous 'Nessun dorma' anthem era?",
     "options": [
+      "Spain",
       "Italy",
       "France",
-      "Germany",
-      "Spain"
+      "Germany"
     ],
     "correct_answer": "Italy",
     "score": 100
@@ -723,9 +723,9 @@
     "id": 61,
     "question": "Which country hosted the 1998 World Cup where France won at home?",
     "options": [
-      "France",
       "Germany",
       "Italy",
+      "France",
       "England"
     ],
     "correct_answer": "France",
@@ -735,10 +735,10 @@
     "id": 62,
     "question": "In 2014, the World Cup returned to South America—who hosted the tournament?",
     "options": [
-      "Brazil",
-      "Argentina",
+      "Colombia",
       "Chile",
-      "Colombia"
+      "Brazil",
+      "Argentina"
     ],
     "correct_answer": "Brazil",
     "score": 100
@@ -748,8 +748,8 @@
     "question": "Which team did Germany beat in the 2014 final at the Maracanã?",
     "options": [
       "Argentina",
-      "Brazil",
       "France",
+      "Brazil",
       "Spain"
     ],
     "correct_answer": "Argentina",
@@ -759,9 +759,9 @@
     "id": 64,
     "question": "Which team won the 2002 World Cup final in Yokohama?",
     "options": [
-      "Brazil",
-      "Germany",
       "Turkey",
+      "Germany",
+      "Brazil",
       "South Korea"
     ],
     "correct_answer": "Brazil",
@@ -772,8 +772,8 @@
     "question": "Who was the top scorer at Brazil 2014 with six goals?",
     "options": [
       "James Rodríguez",
-      "Lionel Messi",
       "Thomas Müller",
+      "Lionel Messi",
       "Neymar"
     ],
     "correct_answer": "James Rodríguez",
@@ -783,10 +783,10 @@
     "id": 66,
     "question": "Which player won the Golden Ball at Brazil 2014?",
     "options": [
-      "Lionel Messi",
-      "Arjen Robben",
+      "Philipp Lahm",
       "Thomas Müller",
-      "Philipp Lahm"
+      "Arjen Robben",
+      "Lionel Messi"
     ],
     "correct_answer": "Lionel Messi",
     "score": 200
@@ -795,10 +795,10 @@
     "id": 67,
     "question": "The 2010 FIFA World Cup took place in which host nation?",
     "options": [
-      "South Africa",
-      "Nigeria",
       "Egypt",
-      "Ghana"
+      "Nigeria",
+      "Ghana",
+      "South Africa"
     ],
     "correct_answer": "South Africa",
     "score": 100
@@ -807,8 +807,8 @@
     "id": 68,
     "question": "The 1974 World Cup was hosted by which European country?",
     "options": [
-      "West Germany",
       "Italy",
+      "West Germany",
       "France",
       "Spain"
     ],
@@ -819,10 +819,10 @@
     "id": 69,
     "question": "Which national team won the 1994 final after a 0–0 draw and penalty shootout?",
     "options": [
-      "Brazil",
       "Italy",
       "Sweden",
-      "Bulgaria"
+      "Bulgaria",
+      "Brazil"
     ],
     "correct_answer": "Brazil",
     "score": 200
@@ -831,10 +831,10 @@
     "id": 70,
     "question": "Which Italian star missed a decisive penalty in the 1994 shootout final?",
     "options": [
-      "Roberto Baggio",
-      "Paolo Maldini",
+      "Alessandro Del Piero",
       "Franco Baresi",
-      "Alessandro Del Piero"
+      "Paolo Maldini",
+      "Roberto Baggio"
     ],
     "correct_answer": "Roberto Baggio",
     "score": 300
@@ -843,10 +843,10 @@
     "id": 71,
     "question": "Which team did France defeat to win the 1998 semifinal, thanks to Thuram’s goals?",
     "options": [
-      "Croatia",
       "Netherlands",
-      "Brazil",
-      "Italy"
+      "Croatia",
+      "Italy",
+      "Brazil"
     ],
     "correct_answer": "Croatia",
     "score": 300
@@ -855,10 +855,10 @@
     "id": 72,
     "question": "Which nation won the 2006 World Cup after a penalty shootout in Berlin?",
     "options": [
-      "Italy",
       "France",
+      "Portugal",
       "Germany",
-      "Portugal"
+      "Italy"
     ],
     "correct_answer": "Italy",
     "score": 100
@@ -867,10 +867,10 @@
     "id": 73,
     "question": "Which player won the Golden Ball at Germany 2006?",
     "options": [
-      "Zinedine Zidane",
+      "Lukas Podolski",
       "Fabio Cannavaro",
-      "Andrea Pirlo",
-      "Lukas Podolski"
+      "Zinedine Zidane",
+      "Andrea Pirlo"
     ],
     "correct_answer": "Zinedine Zidane",
     "score": 300
@@ -879,10 +879,10 @@
     "id": 74,
     "question": "Which player won the Golden Glove at Germany 2006?",
     "options": [
-      "Gianluigi Buffon",
-      "Jens Lehmann",
       "Iker Casillas",
-      "Ricardo"
+      "Ricardo",
+      "Jens Lehmann",
+      "Gianluigi Buffon"
     ],
     "correct_answer": "Gianluigi Buffon",
     "score": 200
@@ -904,9 +904,9 @@
     "question": "Which player holds the record for most World Cup appearances (matches played)?",
     "options": [
       "Lionel Messi",
+      "Cafu",
       "Lothar Matthäus",
-      "Miroslav Klose",
-      "Cafu"
+      "Miroslav Klose"
     ],
     "correct_answer": "Lionel Messi",
     "score": 300
@@ -915,10 +915,10 @@
     "id": 77,
     "question": "Which nation has reached the most World Cup finals appearances overall?",
     "options": [
+      "Argentina",
       "Germany",
       "Brazil",
-      "Italy",
-      "Argentina"
+      "Italy"
     ],
     "correct_answer": "Germany",
     "score": 300
@@ -927,10 +927,10 @@
     "id": 78,
     "question": "Which country won its first-ever World Cup title in 2010?",
     "options": [
-      "Spain",
-      "Netherlands",
       "Germany",
-      "Portugal"
+      "Portugal",
+      "Spain",
+      "Netherlands"
     ],
     "correct_answer": "Spain",
     "score": 200
@@ -940,9 +940,9 @@
     "question": "Which country won the 1938 World Cup hosted in France?",
     "options": [
       "Italy",
-      "Hungary",
       "Brazil",
-      "Sweden"
+      "Sweden",
+      "Hungary"
     ],
     "correct_answer": "Italy",
     "score": 200
@@ -952,9 +952,9 @@
     "question": "Which country hosted the 1950 World Cup, the first after World War II?",
     "options": [
       "Brazil",
+      "England",
       "Italy",
-      "France",
-      "England"
+      "France"
     ],
     "correct_answer": "Brazil",
     "score": 100
@@ -964,8 +964,8 @@
     "question": "Which country hosted the 1958 World Cup where Brazil claimed its first title?",
     "options": [
       "Sweden",
-      "Switzerland",
       "France",
+      "Switzerland",
       "Italy"
     ],
     "correct_answer": "Sweden",
@@ -976,9 +976,9 @@
     "question": "Which country hosted the 1966 World Cup in which England became champions?",
     "options": [
       "England",
-      "Germany",
       "France",
-      "Italy"
+      "Italy",
+      "Germany"
     ],
     "correct_answer": "England",
     "score": 100
@@ -987,9 +987,9 @@
     "id": 83,
     "question": "Which country hosted the 1982 World Cup that Italy won?",
     "options": [
+      "France",
       "Spain",
       "Italy",
-      "France",
       "Germany"
     ],
     "correct_answer": "Spain",
@@ -999,10 +999,10 @@
     "id": 84,
     "question": "Which country hosted the 1990 World Cup where West Germany won the final?",
     "options": [
-      "Italy",
+      "France",
       "Spain",
-      "Germany",
-      "France"
+      "Italy",
+      "Germany"
     ],
     "correct_answer": "Italy",
     "score": 100
@@ -1011,10 +1011,10 @@
     "id": 85,
     "question": "Which team won the 1982 final by defeating West Germany 3–1?",
     "options": [
+      "Spain",
       "Italy",
-      "Brazil",
       "France",
-      "Spain"
+      "Brazil"
     ],
     "correct_answer": "Italy",
     "score": 200
@@ -1023,10 +1023,10 @@
     "id": 86,
     "question": "Which opponent did Argentina beat to win the 1986 final in Mexico City?",
     "options": [
-      "West Germany",
+      "France",
       "England",
       "Belgium",
-      "France"
+      "West Germany"
     ],
     "correct_answer": "West Germany",
     "score": 200
@@ -1035,10 +1035,10 @@
     "id": 87,
     "question": "Which nation won the 1970 World Cup, led by Pelé?",
     "options": [
+      "Uruguay",
       "Brazil",
-      "Italy",
       "West Germany",
-      "Uruguay"
+      "Italy"
     ],
     "correct_answer": "Brazil",
     "score": 100
@@ -1047,9 +1047,9 @@
     "id": 88,
     "question": "Which team did Brazil defeat in the 1970 World Cup final?",
     "options": [
-      "Italy",
-      "West Germany",
       "England",
+      "West Germany",
+      "Italy",
       "France"
     ],
     "correct_answer": "Italy",
@@ -1059,10 +1059,10 @@
     "id": 89,
     "question": "Which country claimed the 1978 World Cup title on home soil?",
     "options": [
-      "Argentina",
+      "Italy",
       "Netherlands",
       "Brazil",
-      "Italy"
+      "Argentina"
     ],
     "correct_answer": "Argentina",
     "score": 200
@@ -1071,10 +1071,10 @@
     "id": 90,
     "question": "Which country won the 1990 World Cup final against Argentina?",
     "options": [
+      "France",
       "West Germany",
-      "Italy",
       "Brazil",
-      "France"
+      "Italy"
     ],
     "correct_answer": "West Germany",
     "score": 200
@@ -1083,10 +1083,10 @@
     "id": 91,
     "question": "Which country won the 1994 World Cup final in the United States?",
     "options": [
-      "Brazil",
       "Italy",
+      "Bulgaria",
       "Sweden",
-      "Bulgaria"
+      "Brazil"
     ],
     "correct_answer": "Brazil",
     "score": 100
@@ -1119,10 +1119,10 @@
     "id": 94,
     "question": "Which country won the 2006 World Cup final in Berlin?",
     "options": [
-      "Italy",
-      "France",
       "Germany",
-      "Portugal"
+      "Portugal",
+      "Italy",
+      "France"
     ],
     "correct_answer": "Italy",
     "score": 100
@@ -1131,10 +1131,10 @@
     "id": 95,
     "question": "Which nation won the 2018 World Cup final in Moscow?",
     "options": [
-      "France",
-      "Croatia",
       "Belgium",
-      "England"
+      "France",
+      "England",
+      "Croatia"
     ],
     "correct_answer": "France",
     "score": 100
@@ -1144,9 +1144,9 @@
     "question": "Which nation won the 2022 World Cup final in Lusail?",
     "options": [
       "Argentina",
+      "Brazil",
       "France",
-      "Croatia",
-      "Brazil"
+      "Croatia"
     ],
     "correct_answer": "Argentina",
     "score": 100
@@ -1156,9 +1156,9 @@
     "question": "Which player finished as the top scorer at Qatar 2022?",
     "options": [
       "Kylian Mbappé",
-      "Lionel Messi",
       "Julián Álvarez",
-      "Olivier Giroud"
+      "Olivier Giroud",
+      "Lionel Messi"
     ],
     "correct_answer": "Kylian Mbappé",
     "score": 200
@@ -1167,10 +1167,10 @@
     "id": 98,
     "question": "France welcomed the world for the 1938 tournament—what country hosted it?",
     "options": [
-      "France",
       "Italy",
-      "Switzerland",
-      "Sweden"
+      "France",
+      "Sweden",
+      "Switzerland"
     ],
     "correct_answer": "France",
     "score": 100
@@ -1179,9 +1179,9 @@
     "id": 99,
     "question": "Name the host country for the 1970 edition of the FIFA World Cup.",
     "options": [
+      "Spain",
       "Mexico",
       "Brazil",
-      "Spain",
       "Argentina"
     ],
     "correct_answer": "Mexico",
@@ -1192,9 +1192,9 @@
     "question": "The 1978 World Cup was organized in which host country?",
     "options": [
       "Argentina",
-      "Brazil",
       "Chile",
-      "Uruguay"
+      "Uruguay",
+      "Brazil"
     ],
     "correct_answer": "Argentina",
     "score": 100

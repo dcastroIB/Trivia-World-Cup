@@ -254,7 +254,7 @@
   },
   "24": {
     "id": 24,
-    "question": "Which 1954 finalists did West Germany upset in the 'Miracle of Bern'?",
+    "question": "Which 1954 finalists did Germany upset in the 'Miracle of Bern'?",
     "options": [
       "Brazil",
       "France",
@@ -269,7 +269,7 @@
     "options": [
       "Sweden",
       "France",
-      "West Germany"
+      "Germany"
     ],
     "correct_answer": "Sweden",
     "score": 200
@@ -324,9 +324,9 @@
     "options": [
       "Brazil",
       "Argentina",
-      "West Germany"
+      "Germany"
     ],
-    "correct_answer": "West Germany",
+    "correct_answer": "Germany",
     "score": 200
   },
   "31": {
@@ -335,7 +335,7 @@
     "options": [
       "Italy",
       "Netherlands",
-      "West Germany"
+      "Germany"
     ],
     "correct_answer": "Netherlands",
     "score": 300
@@ -366,16 +366,16 @@
     "id": 34,
     "question": "Which team did Argentina defeat in the 1986 final to become champions?",
     "options": [
-      "West Germany",
+      "Germany",
       "Brazil",
       "England"
     ],
-    "correct_answer": "West Germany",
+    "correct_answer": "Germany",
     "score": 200
   },
   "35": {
     "id": 35,
-    "question": "In 1990, West Germany defeated Argentina in the final hosted by which country?",
+    "question": "In 1990, Germany defeated Argentina in the final hosted by which country?",
     "options": [
       "Germany",
       "Spain",
@@ -386,7 +386,7 @@
   },
   "36": {
     "id": 36,
-    "question": "Who scored the decisive penalty in the 1990 final for West Germany?",
+    "question": "Who scored the decisive penalty in the 1990 final for Germany?",
     "options": [
       "Andreas Brehme",
       "Rudi Völler",
@@ -397,7 +397,7 @@
   },
   "37": {
     "id": 37,
-    "question": "Which country hosted the 1994 World Cup, the first held in the United States?",
+    "question": "Which country hosted the 1994 World Cup?",
     "options": [
       "Brazil",
       "Mexico",
@@ -609,7 +609,7 @@
     "question": "Which team won back-to-back World Cups in 1958 and 1962?",
     "options": [
       "Brazil",
-      "West Germany",
+      "Germany",
       "Uruguay"
     ],
     "correct_answer": "Brazil",
@@ -742,9 +742,9 @@
     "options": [
       "Italy",
       "France",
-      "West Germany"
+      "Germany"
     ],
-    "correct_answer": "West Germany",
+    "correct_answer": "Germany",
     "score": 100
   },
   "69": {
@@ -914,7 +914,7 @@
   },
   "84": {
     "id": 84,
-    "question": "Which country hosted the 1990 World Cup where West Germany won the final?",
+    "question": "Which country hosted the 1990 World Cup where Germany won the final?",
     "options": [
       "France",
       "Italy",
@@ -925,7 +925,7 @@
   },
   "85": {
     "id": 85,
-    "question": "Which team won the 1982 final by defeating West Germany 3–1?",
+    "question": "Which team won the 1982 final by defeating Germany 3–1?",
     "options": [
       "France",
       "Italy",
@@ -940,9 +940,9 @@
     "options": [
       "England",
       "France",
-      "West Germany"
+      "Germany"
     ],
-    "correct_answer": "West Germany",
+    "correct_answer": "Germany",
     "score": 200
   },
   "87": {
@@ -950,7 +950,7 @@
     "question": "Which nation won the 1970 World Cup, led by Pelé?",
     "options": [
       "Brazil",
-      "West Germany",
+      "Germany",
       "Uruguay"
     ],
     "correct_answer": "Brazil",
@@ -960,7 +960,7 @@
     "id": 88,
     "question": "Which team did Brazil defeat in the 1970 World Cup final?",
     "options": [
-      "West Germany",
+      "Germany",
       "Italy",
       "England"
     ],
@@ -982,11 +982,11 @@
     "id": 90,
     "question": "Which country won the 1990 World Cup final against Argentina?",
     "options": [
-      "West Germany",
+      "Germany",
       "Brazil",
       "France"
     ],
-    "correct_answer": "West Germany",
+    "correct_answer": "Germany",
     "score": 200
   },
   "91": {

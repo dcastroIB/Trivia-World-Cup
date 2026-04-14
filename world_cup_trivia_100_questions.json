@@ -595,7 +595,7 @@
   },
   "55": {
     "id": 55,
-    "question": "Which nation won the 1958 World Cup, introducing a teenage Pelé to the world?",
+    "question": "Which nation won the 1958 World Cup?",
     "options": [
       "Brazil",
       "Sweden",
@@ -628,7 +628,7 @@
   },
   "58": {
     "id": 58,
-    "question": "Italy defended their title at France 1938—what was their finishing position?",
+    "question": "Italy played for the title at France 1938—what was their finishing position?",
     "options": [
       "Group stage",
       "Third place",
@@ -661,7 +661,7 @@
   },
   "61": {
     "id": 61,
-    "question": "Which country hosted the 1998 World Cup where France won at home?",
+    "question": "Which country hosted the 1998 World Cup?",
     "options": [
       "France",
       "Germany",
@@ -1068,7 +1068,7 @@
   },
   "98": {
     "id": 98,
-    "question": "France welcomed the world for the 1938 tournament—what country hosted it?",
+    "question": "In the world for the 1938 tournament—what country hosted it?",
     "options": [
       "Sweden",
       "France",
